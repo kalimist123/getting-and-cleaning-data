@@ -1,6 +1,5 @@
 Getting and Cleaning Data - Course Project
 ------------------------------------------
-----------
 Michael Lennon
 
 This repository includes all files required for the course project of the Coursera course "Getting And Cleaning data" https://www.coursera.org/course/getdata
